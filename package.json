@@ -1,0 +1,15 @@
+{
+  "name": "file-manager",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexivkov/file-manger.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
